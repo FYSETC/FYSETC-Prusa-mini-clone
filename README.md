@@ -1,7 +1,7 @@
 # FYSETC-Prusa-mini-clone
 Some files by Prusa mini clone
 
-![](/Prusa mini.jpg)
+![](/Prusa_mini.jpg)
 
 1.Prusa mini STL file update 2020.7.7
 These print files are suitable for FYSETC prusa mini 3D printer. The two parts are different official versions, MINI-extruder-rear and MINI-z-bottom. The other parts are the same as the official Prusa MINI. You can also download the STL file through the following link:
