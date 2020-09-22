@@ -24,3 +24,4 @@ The tutorial is very detailed. We also provide a video assembly tutorial. It is 
 You can also download the STL file through the following link:
 <https://www.thingiverse.com/thing:4307001>
 
+4.Go to buy link ：https://es.aliexpress.com/item/33030542556.html
